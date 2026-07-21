@@ -13,3 +13,7 @@ ORG-000005,European AI Office,Organization,ACTIVE,European Commission office res
 ORG-000006,European Artificial Intelligence Board,Organization,ACTIVE,Board established under the EU AI Act
 ORG-000007,Scientific Panel,Organization,ACTIVE,Scientific advisory panel supporting AI Act implementation
 ORG-000008,Advisory Forum,Organization,ACTIVE,Stakeholder advisory forum established under the EU AI Act
+REG-000001,General-Purpose AI Obligations,Regulatory Framework,ACTIVE,European Commission implementation obligations for GPAI providers
+DOC-000001,GPAI Guidelines,Guidance Document,ACTIVE,European Commission guidance for general-purpose AI obligations
+DOC-000002,GPAI Code of Practice,Guidance Document,ACTIVE,Voluntary implementation framework for GPAI providers
+DOC-000003,Public Summary of Training Content Template,Template,ACTIVE,European Commission template supporting AI Act transparency obligations
