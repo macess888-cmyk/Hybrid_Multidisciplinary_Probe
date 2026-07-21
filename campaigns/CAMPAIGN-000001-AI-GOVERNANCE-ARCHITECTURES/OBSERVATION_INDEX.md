@@ -3,6 +3,7 @@
 ## Registered
 
 - OBS-000001 - EPGenAI Hub
+- OBS-000002 - Frontier AI Testing and Independent Measurement
 
 ## Candidate Observations
 

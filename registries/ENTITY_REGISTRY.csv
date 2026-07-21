@@ -1,10 +1,9 @@
 EntityID,Name,Type,Status,Notes
-
 PER-000001,Keith King,Person,ACTIVE,
+PER-000002,Chris Fall,Person,ACTIVE,Former CAISI director
+PER-000003,Arvind Raman,Person,ACTIVE,Reported in source as overseeing CAISI; official role verification pending
 ORG-000001,European Parliament,Organization,ACTIVE,
-ORG-000002,NIST,Organization,ACTIVE,
-ORG-000003,CAISI,Organization,ACTIVE,
-
+ORG-000002,NIST,Organization,ACTIVE,National Institute of Standards and Technology
+ORG-000003,CAISI,Organization,ACTIVE,Center for AI Standards and Innovation
 TECH-000001,EPGenAI Hub,Technology,ACTIVE,
-
 STD-000001,EU AI Act,Standard,ACTIVE,

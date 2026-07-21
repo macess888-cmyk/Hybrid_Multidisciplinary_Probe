@@ -1,1 +1,4 @@
 PatternID,Pattern,Confidence,Status
+PAT-000001,Governance architectures repeatedly distinguish multiple responsibility layers rather than treating governance as a single function,EMERGING,OPEN
+PAT-000002,Multiple independent architectures emphasize continual verification or revalidation after deployment,EMERGING,OPEN
+PAT-000003,Independent measurement capability appears as a distinct layer separate from policy deployment and execution,EMERGING,OPEN

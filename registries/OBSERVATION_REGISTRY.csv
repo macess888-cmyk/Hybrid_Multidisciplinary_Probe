@@ -1,2 +1,3 @@
 ObservationID,Date,Source,Author,Organization,ClaimType,EvidenceType,Classification,Status
 OBS-000001,2026-07-20,LinkedIn / EPGenAI Hub,Keith King / secondary reporting,European Parliament,Architectural,E4+E8,PARTIAL,OPEN
+OBS-000002,2026-07-20,LinkedIn / Frontier AI Testing,Keith King / secondary reporting,NIST / CAISI,Architectural,E4,PARTIAL,OPEN

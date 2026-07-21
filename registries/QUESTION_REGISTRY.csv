@@ -1,1 +1,5 @@
 QuestionID,Question,Priority,Status
+QST-000001,Which architectural distinctions consistently appear across independent AI governance proposals?,HIGH,OPEN
+QST-000002,Can institutional governance reduce fragmentation while simultaneously increasing correlated error?,HIGH,OPEN
+QST-000003,Which public architectures explicitly distinguish information governance from execution governance?,HIGH,OPEN
+QST-000004,What architectural characteristics allow AI measurement organizations to remain technically independent while preserving scientific reproducibility?,HIGH,OPEN
