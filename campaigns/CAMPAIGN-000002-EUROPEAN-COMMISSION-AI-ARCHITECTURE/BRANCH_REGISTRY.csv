@@ -1,0 +1,13 @@
+BranchID,Title,SourceType,ReviewPriority,Status
+BR-000001,European Commission Root Portal,Institutional Portal,HIGH,OPEN
+BR-000002,Artificial Intelligence Topic,Institutional Topic Page,HIGH,OPEN
+BR-000003,EU AI Act,Legislation,HIGH,OPEN
+BR-000004,European AI Office,Institutional Authority,HIGH,OPEN
+BR-000005,AI Act Service Desk,Guidance Platform,MEDIUM,OPEN
+BR-000006,General-Purpose AI,Regulatory and Technical Guidance,HIGH,OPEN
+BR-000007,AI Safety and Evaluation,Technical and Institutional,HIGH,OPEN
+BR-000008,AI Research and CORDIS,Research Registry,HIGH,OPEN
+BR-000009,Funding and Tenders,Funding Registry,MEDIUM,OPEN
+BR-000010,Publications Office,Official Publications,HIGH,OPEN
+BR-000011,EUR-Lex,Legal Registry,HIGH,OPEN
+BR-000012,Consultations and Have Your Say,Policy Development,MEDIUM,OPEN
