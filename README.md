@@ -35,3 +35,59 @@ CAMPAIGN-000001 - AI Governance Architectures
 ## Current Observation
 
 OBS-000001 - EPGenAI Hub
+
+---
+
+# Knowledge Graph Architecture
+
+The Hybrid Multidisciplinary Probe organizes public knowledge into distinct layers.
+
+Sources
+
+↓
+
+Observations
+
+↓
+
+Entities
+
+↓
+
+Relationships
+
+↓
+
+Claims
+
+↓
+
+Questions
+
+↓
+
+Contradictions
+
+↓
+
+Patterns
+
+↓
+
+Campaigns
+
+↓
+
+Maps
+
+↓
+
+Reports
+
+Each layer preserves its own responsibilities.
+
+No layer silently inherits the certainty, authority, or validity of another.
+
+Independent convergence is treated as stronger evidence than repeated opinion.
+
+Unknowns are preserved rather than hidden.
