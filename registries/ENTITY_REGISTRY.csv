@@ -1,0 +1,10 @@
+EntityID,Name,Type,Status,Notes
+
+PER-000001,Keith King,Person,ACTIVE,
+ORG-000001,European Parliament,Organization,ACTIVE,
+ORG-000002,NIST,Organization,ACTIVE,
+ORG-000003,CAISI,Organization,ACTIVE,
+
+TECH-000001,EPGenAI Hub,Technology,ACTIVE,
+
+STD-000001,EU AI Act,Standard,ACTIVE,
